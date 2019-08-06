@@ -43,7 +43,7 @@ android {
         release {
             minifyEnabled false
             debuggable false
-            signingConfig signingConfigs.release
+//            signingConfig signingConfigs.release
 
             // For release build should be added custom proGuard
 //            minifyEnabled true
